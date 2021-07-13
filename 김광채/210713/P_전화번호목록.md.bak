@@ -1,4 +1,3 @@
-```java
 import java.util.*;
 
 /*
@@ -126,4 +125,3 @@ class Solution {
     - i 0~len, j i+1~len -> i 0~len, j 0~len
     - isPrefix라면 break, continue 차이
 */
-```
