@@ -2,7 +2,7 @@
 테스트 11 19 효율성 4 실패
 
 def solution(phone_book):
-    a = len(min(phone_book))
+    a = len(min(phone_book))#119
     s = {}
     for i in phone_book:
         s.setdefault(i[:a],i)
