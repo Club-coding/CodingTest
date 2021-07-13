@@ -5,3 +5,6 @@ def solution(phone_book):
             return False
             
     return True
+
+# 처음에 길이를 기준으로 sort했는데 안됨
+# 그냥 sort하면 비교하기가 쉽다는 걸 알게됨
