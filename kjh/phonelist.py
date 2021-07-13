@@ -21,5 +21,6 @@ def solution(phone_book):
             return False
     return True
 
+# gg
 phone_book = ["524421", "97674223", "119","4312129","1923","121199"]
 print(solution(phone_book))

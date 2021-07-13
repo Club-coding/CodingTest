@@ -25,7 +25,7 @@ def solution(clothes):
 
     return answer -1
 
-
+# gg
 
 clothes = [["yellowhat", "headgear"], ["bluesunglasses", "eyewear"], ["green_turban", "headgear"]]
 print(solution(clothes))
