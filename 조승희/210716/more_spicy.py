@@ -9,7 +9,7 @@ def solution(scoville, K):
         a = heapq.heappop(data)
         b = heapq.heappop(data)
         c = a + (b*2)
-        heapq.heappush(data, c)
+        heapq.heappush(data, c)#
         answer += 1
         
         for i in data:
