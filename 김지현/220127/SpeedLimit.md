@@ -1,6 +1,6 @@
 ## 스피드제한
 
-아니 왜 다맞는딩,,,NumberFormat Error가 뜨는 이유 아시눈분?
+어의없쏘 bufferedreader자식은 while문 전에 있어야했다!
 
 ```java
 import java.io.BufferedReader;
@@ -10,9 +10,9 @@ import java.util.StringTokenizer;
 
 public class Main{
     public static void main(String[] args) throws IOException{
-
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         while(true){
-            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+            
             int n = Integer.parseInt(br.readLine());
             int T =0;
             long sum =0;
