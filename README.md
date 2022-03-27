@@ -9,7 +9,7 @@
 1.  월요일마다 팀 공통문제 출제
     -   ex) 구현력 문제 + DP 문제
     - contents폴더에 출제 문제 업로드 ex) 220327
-    - [[예시]](https://github.com/Club-coding/CodingTest/blob/main/contents/%EB%AC%B8%EC%A0%9C%20%EC%B6%9C%EC%A0%9C%20%EC%98%88%EC%8B%9C.md)
+    - [[예시]](https://github.com/Club-coding/CodingTest/blob/main/example/%EB%AC%B8%EC%A0%9C%20%EC%B6%9C%EC%A0%9C%20%EC%98%88%EC%8B%9C.md)
 2.  시간 정해두고 문제풀기
     
     -   시험 실전대비를 위해 시간을 정해두고 푸는것을 권장 (최대2시간)
