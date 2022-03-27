@@ -32,10 +32,8 @@
 3. pull request로 풀이, 자신의 코드, 이슈 작성
 4. 댓글로 의견 공유(코드 작성, 효율성 등)
 5. 매번 4명의 승인
-https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/    
-    
+https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/        
 vs.    
-      
 https://brunch.co.kr/@anonymdevoo/9    
 
 ### 파일명 규칙
